@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_KEY = 'AIzaSyA4kDl0ZxQs-1lTO0f45uql8ljss-c485Y';
+const API_KEY = 'Your Google console api key for Youtube Data API V3';
 
 const getChannelInfo = async (channelId) => {
     try {
