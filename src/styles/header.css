@@ -1,0 +1,35 @@
+.header{
+    width: 99%;
+    height: 6vh;
+    margin-left: 0.5%;
+    margin-top: 2vh;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(10px);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    align-content: center;
+}
+
+.topnav {
+    width: 95%;
+    margin-left: 2%;
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+    align-content: center;
+  }
+  .navoptions{
+    width: 30%;
+    background-color: red;
+  }
+  .navoptions a {
+    float: left;
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 1.6rem;
+    font-weight: bold;
+    align-self: center;
+  }
