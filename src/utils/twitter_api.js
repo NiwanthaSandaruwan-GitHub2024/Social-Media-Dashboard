@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_KEY = 'yZf6srandT2lC166NBz8QER0KucMv1rUePD0OAaRimD2yWfB84';
+const API_KEY = 'Here add your twitter API Key';
 
 const getTwitterUserInfo = async (username) => {
     try {
