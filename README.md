@@ -20,6 +20,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ![Screenshot 2024-05-08 200652](https://github.com/NiwanthaSandaruwan-GitHub2024/Social-Media-Dashboard/assets/168508798/e5b3f5ab-5ab9-45d0-9ba0-9f729f6d27d6)
 
+https://github.com/NiwanthaSandaruwan-GitHub2024/Social-Media-Dashboard/assets/168508798/14dbee37-21a4-4648-addb-5089da9cb571
+
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
